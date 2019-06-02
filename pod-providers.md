@@ -14,8 +14,8 @@ In short, these are made for testing the latest, bleeding edge features and capa
 
 | Link | Responsible for Hosting| Location of Hosting | Solid Server Version | Support |
 |-------------------|-------------------|-------------------|-------------------|-------------------|
-| https://solid.openlinksw.com:8444 |   [OpenLink Software](https://www.openlinksw.com/)  |         USA         |        NSS 4.x       | ?? |
-| https://solid.openlinksw.com:8445 |   [OpenLink Software](https://www.openlinksw.com/)  |         USA         |        NSS 5.x       | ?? |
+| https://solid.openlinksw.com:8444 |   [OpenLink Software](https://www.openlinksw.com/)  |         USA         |        NSS 4.x       | support@openlinksw.com |
+| https://solid.openlinksw.com:8445 |   [OpenLink Software](https://www.openlinksw.com/)  |         USA         |        NSS 5.x       | support@openlinksw.com |
 | https://dev.inrupt.net |  [Inrupt, Inc.](https://www.inrupt.com/)  |         USA         |        NSS 5.x       | support@inrupt.com |
 | https://solid.authing.cn/         |                          ??                         |                        ??                         |         ??          | ?? |
 | https://solidweb.org         |                         [Matthias Evering](https://github.com/ewingson)                      |                        Germany                         |         NSS 5.x          | ?? |
